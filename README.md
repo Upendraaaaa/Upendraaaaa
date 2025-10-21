@@ -38,8 +38,7 @@ I’m a passionate **Java Backend Developer** currently in my final year of Comp
 
 ## 📂 Notable Projects
 
-### 📌 [Student Management  Java Backend Project]
-Short 1–2 line description about it.  
+### 📌 [Student Management  Java Backend Project]  
 **Tech Used**: Java, Spring Boot, Hibernate  
 ➡️ [](#)
 
@@ -56,8 +55,7 @@ Short 1–2 line description about it.
 ## 📫 Contact Me
 
 - Email: [upendravun7@gmail.com]
-- LinkedIn: [](#)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [https://github.com/Upendraaaaa/Upendraaaaa]
 
 ---
 
