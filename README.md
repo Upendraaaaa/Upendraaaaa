@@ -56,6 +56,7 @@ I’m a passionate **Java Backend Developer** currently in my final year of Comp
 
 - Email: [upendravun7@gmail.com]
 - GitHub: [https://github.com/Upendraaaaa/Upendraaaaa]
+- LinkedIn: [www.linkedin.com/in/upendra7]
 
 ---
 
