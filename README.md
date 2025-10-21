@@ -10,7 +10,7 @@ I’m a passionate **Java Backend Developer** currently in my final year of Comp
 
 - 🌱 Currently working on: My final year project & contributing to open-source
 - 💼 Seeking: Backend Internship / Entry-level Java Developer roles
-- 📍 Location: [Your City, Country]
+- 📍 Location: INDIA
 - 🎯 Interests: Backend Architecture, REST APIs, Microservices, Cloud (AWS), DSA
 
 ---
