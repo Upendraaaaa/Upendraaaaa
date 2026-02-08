@@ -1,4 +1,4 @@
-# Upendraaaaa.me
+# Upendra...
 # 💫 About Me:
 Hello! I'm Upendra Vungarala<br>🎓 Final Year Computer Science Student | ☕ Java Backend Developer | 🔍 Always Learning<br><br>🚀 About Me<br>I’m a passionate Java Backend Developer currently in my final year of Computer Science. I love building scalable and maintainable backend systems, exploring software architecture, and learning new tools that help bring systems to life.<br><br>🌱 Currently working on: My final year project & contributing to open-source<br>💼 Seeking: Backend Internship / Entry-level Java Developer roles<br>📍 Location: INDIA<br>🎯 Interests: Backend Architecture, REST APIs, Microservices, Cloud (AWS), DSA<br>
 
